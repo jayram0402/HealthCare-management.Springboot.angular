@@ -2,14 +2,12 @@
 
 ![](https://img.shields.io/github/languages/count/gowthamrajk/HealthCareManagement)   ![](https://img.shields.io/github/languages/top/gowthamrajk/HealthCareManagement)
 
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
-
-##  Features 💬
+##  Features
 
 - It is a **HealthCare Management System** which can facilitate you to check your hospital status, profile information, doctor information, check slots, book doctor appointments, review the appointments, generate and print your respective prescriptions and manage the entire application.
 - It has 3 modes of operation as **1) ADMIN 2) DOCTOR 3) USER**
 
-## ADMIN Mode 🔭
+## ADMIN Mode
 
 This mode makes you as an admin and you can perform various activities like...
 - Adding a Doctor
@@ -20,7 +18,7 @@ This mode makes you as an admin and you can perform various activities like...
 - Accept or Reject the Doctors when they register as a new Doctor for this application
 - Get various details on the admin dashboard as Total User, Total doctors, Total slots, Patients, Prescriptions given & Appointments booked.
 
-## DOCTOR Mode ❤️
+## DOCTOR Mode 
 
 This mode makes you as a doctor and you can perform various activities like...
 - Dcotor can register for a new account in-order to login to the portal
@@ -33,7 +31,7 @@ This mode makes you as a doctor and you can perform various activities like...
 - Add new patient prescription
 - Get various details on the doctor dashboard as Total Prescriptions given, Total doctors, Total slots, Patients.
 
-## USER Mode 😄
+## USER Mode 
 
 This mode makes you as a user and you can perform various activities like...
 - User can register for a new account in-order to login to the portal
@@ -47,7 +45,7 @@ This mode makes you as a user and you can perform various activities like...
 
 **[Additional Feature: The user can even print their respective prescriptions]**
 
-# About Project Development 🥅
+# About Project Development 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
@@ -144,7 +142,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![image](https://user-images.githubusercontent.com/43011442/123928416-83467580-d9ab-11eb-968d-13321ae4d262.png)
 
 
-# ADMIN MODE: 📫
+# ADMIN MODE:
 
 ## Admin Dashboard
 
@@ -187,7 +185,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![image](https://user-images.githubusercontent.com/43011442/123929760-c3f2be80-d9ac-11eb-93a9-00a6882d96e7.png)
 
 
-# DOCTOR MODE ❤️
+# DOCTOR MODE
 
 ## Doctor Dashboard
 
@@ -246,7 +244,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![image](https://user-images.githubusercontent.com/43011442/123932330-f7cee380-d9ae-11eb-9638-ba578c675d24.png)
 
 
-# USER MODE 😄
+# USER MODE 
 
 ## User Dashboard
 
@@ -302,48 +300,22 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/123934676-2483fa80-d9b1-11eb-90f8-d29a5670f82b.png)
 ![image](https://user-images.githubusercontent.com/43011442/123934816-48474080-d9b1-11eb-8b79-368800d7bdd1.png)
-![image](https://user-images.githubusercontent.com/43011442/123934935-6319b500-d9b1-11eb-8848-53600182ffc1.png)
-
+![image](https://user-images.githubusercontent.com/43011442/123934935-6319b500-d9b1-11eb-8848-53600182ffc1.png
 
 ## Print Prescription
 
 ![image](https://user-images.githubusercontent.com/43011442/123935096-89d7eb80-d9b1-11eb-876d-30cd6fb740ea.png)
 
+**For more queries, reach me through jayramsharma0402@gmail.com **
 
 
-
-**For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
-
-
-<div align="center">
-  
-# Show some ❤️ by starring this repository !!!
-  
-</div>
+ 
 
 
-## Project Developed & Maintained By 
+ 
+ 
 
-# ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
-
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Fullstack+Web+Developer&color=0b3d36&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=UI+Designer&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Learning+new+things&color=0c0c4f&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Design+Thinker&color=0b3d17&label=) 
-
-
-### Connect with me 👋:
-
-[<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
-[<img align="left" alt="GowthamRaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="GowthamRaj " width="22px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
-[<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
-
-
-## Copyright-and-license 📌
-
-**Code and documentation Copyright 2021 : Gowthamraj K**
-
+ 
 
 [website1]: https://sites.google.com/view/code-jamm
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
